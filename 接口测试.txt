@@ -1,0 +1,7 @@
+浏览器 通过地址栏提交 默认get方法
+
+1.testng监听器 获取三个失败的，2个成功的测试方法
+2.freemarker
+3.testng 监听器+freemarker 形成html文件
+4.javamail把第三步的形成的html文件 发送出去
+5.httpclient
